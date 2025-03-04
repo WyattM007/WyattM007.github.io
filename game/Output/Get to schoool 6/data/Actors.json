@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor3_5","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[44,0,0,0,0],"faceIndex":4,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Main character ","nickname":"Player ","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[8,0,0,0,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eleniess ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Naturemz","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Naturemz2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ButterDog","nickname":"Bdog","note":"","profile":""}
+]
