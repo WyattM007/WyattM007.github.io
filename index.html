@@ -5,25 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WWeb</title>
     <style>
-      
+      body{ background-image: url("https://kokororeflections.com/wp-content/uploads/2018/04/mapfix1-17-450x347.jpg");}
+      .caption {
+      position: absolute;
+      left: 0;
+      top: 64%;
+      width: 100%;
+      text-align: center;
+      color: #000;
+    }
+    
+    .caption span.border {
+      background-color: #111;
+      color: #fff;
+      padding: 18px;
+      font-size: 25px;
+      letter-spacing: 10px;
+    }
       </style>
 </head>
 <link id="style" rel="stylesheet" href="css/light.css">
 <script src="js/scrpits.js"></script>
 <body>
-    <div id="toolbar">
-        <div id="buttons">
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="game/Output/Get to schoool 6/index.html">Game</a>
-            <a href="test.html">test</a>
-            <a href="#" onclick="switchmode()">Mode</a>
-        </div>
-        <a href="#" onclick="showhide()">☰</a>
-    </div>
-  <div>
+    <div>
     <div class="bg-text">Get To School 6</div>
 </div>
-<div class="bg-image img4"></div>
+
+<div class="caption">
+    <span class="border"><a href="index.html">Home</a>
+      <a href="about.html">About the game</a>
+      <a href="aboutme.html">About me</a>
+      <a href="game/Output/Get to schoool 6/index.html">Game</a>
+      <a href="#" onclick="switchmode()">Mode</a>
+    </span>
+    </div>
 </body>
 </html>
